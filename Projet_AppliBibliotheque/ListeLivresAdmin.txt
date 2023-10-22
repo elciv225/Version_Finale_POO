@@ -1,0 +1,42 @@
+Titre : Le Seigneur des Anneaux
+Auteur : J.R.R. Tolkien
+Catégorie : Fantasy
+Nombre disponible : 5
+
+Titre : Orgueil et Préjugés
+Auteur : Jane Austen
+Catégorie : Littérature classique
+Nombre disponible : 2
+
+Titre : Harry Potter à l'école des sorciers
+Auteur : J.K. Rowling
+Catégorie : Fantasy
+Nombre disponible : 0
+
+Titre : Les Misérables
+Auteur : Victor Hugo
+Catégorie : Littérature classique
+Nombre disponible : 3
+
+Titre : Le Hobbit
+Auteur : J.R.R. Tolkien
+Catégorie : Fantasy
+Nombre disponible : 4
+
+Titre : Crime et Châtiment
+Auteur : Fiodor Dostoïevski
+Catégorie : Littérature classique
+Nombre disponible : 1
+
+Titre : L'Étranger
+Auteur : Albert Camus
+Catégorie : Littérature contemporaine
+Nombre disponible : 6
+
+Titre : Fondation
+Auteur : Isaac Asimov
+Catégorie : Science-fiction
+Nombre disponible : 2
+
+
+

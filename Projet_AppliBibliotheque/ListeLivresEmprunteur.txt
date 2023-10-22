@@ -1,0 +1,6 @@
+Nom de l'emprunteur : Eliel
+Date de naissance : 2005-06-12
+Titre : Fondation
+Auteur : Isaac
+Date d'emprunt : 2023-10-21
+

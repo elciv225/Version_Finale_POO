@@ -1,0 +1,38 @@
+Titre : Le Seigneur des Anneaux
+Auteur : J.R.R. Tolkien
+Catégorie : Fantasy
+
+Titre : Orgueil et Préjugés
+Auteur : Jane Austen
+Catégorie : Littérature classique
+
+Titre : Harry Potter à l'école des sorciers
+Auteur : J.K. Rowling
+Catégorie : Fantasy
+
+Titre : Les Misérables
+Auteur : Victor Hugo
+Catégorie : Littérature classique
+
+Titre : Le Hobbit
+Auteur : J.R.R. Tolkien
+Catégorie : Fantasy
+
+Titre : Crime et Châtiment
+Auteur : Fiodor Dostoïevski
+Catégorie : Littérature classique
+
+Titre : L'Étranger
+Auteur : Albert Camus
+Catégorie : Littérature contemporaine
+
+Titre : Fondation
+Auteur : Isaac Asimov
+Catégorie : Science-fictionTitre : Naruto
+Auteur : Kishimoto
+Catégorie : Manga
+
+Titre : Naruto
+Auteur : Kishimoto
+Catégorie : Manga
+
